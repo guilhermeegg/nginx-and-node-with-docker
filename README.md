@@ -7,5 +7,8 @@ Nesse desafio você colocará em prática o que aprendemos em relação a utiliz
 ```
 docker-compose up -d
 ```
+Na primeira execução é executado um script via docker-entrypoint-initdb.d para criar a tabela people
+
+
 # URL
 http://localhost:8080/
